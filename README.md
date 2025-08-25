@@ -1,8 +1,9 @@
-<h1 align="center">Hi 👋, I'm 𝒁𝐄𝐘𝐀𝐃</h1>
+<h1 align="center">Hi I'M 𝒁𝐄𝐘𝐀𝐃 𝐒𝐇𝐄𝐍𝐃𝐘 | زيـــَـاد شنــدِي
+</h1>
 <h3 align="center">FRONTEND AND MOBILE SYSTEMS ENGINEER AND EXPERIENCED IN THE FIELD OF CYBER SECURITY DEVELOPER FROM EGYPT</h3>
 
 - 🔭 I’M MADE [JEMENEZ SITE TO ONLINE COACH](https://l.instagram.com/?u=https%3A%2F%2Fjemenezfit.github.io%2Fjemenez.%2F%3Ffbclid%3DPAZXh0bgNhZW0CMTEAAaeddembD0MEIgRViQPEmRqDfjMdRejq1n5MOVHTyqtME__cIG1PIwBqME7bIA_aem_LIaFVsVeK_2bcg9U4PpI7A&e=AT3KEatDdiIv58PMV2WuMMz7PgL5BOCGjCAwXXu9HEvmEjrD_Urw4OaVdPVqu1eu1VX0W0-Bk_oQrZHXTxQHS1Qo5bu7_ciK8YiRa8Y)
-
+- <img src ="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/ziad_shendy6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ziad_shendy6" height="30" width="40" /></a>
